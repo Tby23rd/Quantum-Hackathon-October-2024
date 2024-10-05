@@ -1,0 +1,16 @@
+Drug-Target Interaction Prediction for SARS-CoV-2 Mpro
+Number of qubits: 16 (Drug: 8, Protein: 8)
+Number of circuit parameters: 96
+Step 20: Interaction Energy = -2.414649
+Step 40: Interaction Energy = -4.940793
+Step 60: Interaction Energy = -6.444389
+Step 80: Interaction Energy = -6.561222
+Step 100: Interaction Energy = -6.586209
+Step 120: Interaction Energy = -6.589083
+Step 140: Interaction Energy = -6.589560
+Step 160: Interaction Energy = -6.589802
+Step 180: Interaction Energy = -6.589781
+Step 200: Interaction Energy = -6.589325
+
+Final predicted interaction energy = -6.589325
+Strong binding predicted

@@ -1,0 +1,15 @@
+Sildenafil (Viagra) Repurposing Simulation       
+Simulating interaction with PDE5 (ED treatment, known target)
+Final affinity: 0.997632
+Simulating interaction with PDE6 (Vision side effects)
+Final affinity: 0.999944
+Simulating interaction with Myosin light chain kinase (Potential cramp target)
+Final affinity: 0.999676
+Simulating interaction with Nitric oxide synthase (Blood flow)
+Final affinity: 0.999782
+
+Ranked potential targets:
+1. PDE6 (Vision side effects): 0.999944
+2. Nitric oxide synthase (Blood flow): 0.999782
+3. Myosin light chain kinase (Potential cramp target): 0.999676
+4. PDE5 (ED treatment, known target): 0.997632

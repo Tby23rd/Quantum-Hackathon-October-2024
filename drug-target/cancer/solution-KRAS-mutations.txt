@@ -1,0 +1,18 @@
+KRAS Inhibitor Drug Discovery Simulation
+Starting drug optimization...      
+Step 10: binding affinity = -0.832136
+Step 20: binding affinity = -0.629375
+Step 30: binding affinity = -0.752999
+Step 40: binding affinity = -0.817119
+Step 50: binding affinity = -0.899874
+Step 60: binding affinity = -0.897769
+Step 70: binding affinity = -0.736290
+Step 80: binding affinity = -0.902373
+Step 90: binding affinity = -0.825756
+Step 100: binding affinity = -0.833374
+
+Final binding affinity: -0.833374  
+Potential strong KRAS inhibitor discovered!
+
+Optimized drug features:
+[2.37328872 0.58185042 0.78910707 1.73291857 2.14770865 0.21533084] 

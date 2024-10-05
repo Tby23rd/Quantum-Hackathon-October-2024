@@ -1,0 +1,16 @@
+Simulating Morphine-MOR Interaction
+Step 10: Binding Affinity = -0.697064
+Step 20: Binding Affinity = -0.687724
+Step 30: Binding Affinity = -0.700907
+Step 40: Binding Affinity = -0.704128
+Step 50: Binding Affinity = -0.707878
+Step 60: Binding Affinity = -0.707878
+Step 70: Binding Affinity = -0.708229
+Step 80: Binding Affinity = -0.708345
+Step 90: Binding Affinity = -0.708359
+Step 100: Binding Affinity = -0.708369
+
+Final Morphine-MOR Binding Affinity: -0.708369
+Strong binding: Unexpected for morphine, might indicate overfitting   
+
+Note: This simulation simplifies complex molecular interactions.  
